@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joaquin Florencio
 - 👀 I’m interested in Machine Learning and AWS systems.
-- 🌱 I’m currently learning Linux , Python and Java.
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 Reach me at Jrr232@gmail.com !
 
 <!---
